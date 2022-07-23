@@ -1,0 +1,88 @@
+.blog{
+    background-color: black;
+    width: 700px;
+    height: 500px;      
+    border-radius: 20px;
+    color: white;
+    margin-left: 250px;
+    margin-top: 15px;
+}
+body{
+    overflow-x: hidden;
+}
+.blog, img{
+    margin-left: auto;
+    padding-left: 200px;
+}
+.color3{
+    background-color: red;
+    border-radius: 5px;
+}
+.blog3{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 300px;
+    padding-left: 400px;
+}
+.blog3 .color1. .color2{
+    background-color: white;
+    border-radius: 5px;
+}
+.color{
+    background-color: red;
+    border-radius: 5px;
+}
+.player{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 50px;
+    margin-top: 50px;
+}
+.player, img{
+    margin-right: 450px;
+
+}
+.containers{
+    width: 400px;
+    height: 300px;
+}
+.blog-info1{
+    padding-left: 300px;
+}
+.blog-info2{
+    padding-left: 300px;
+}
+.blog-info3{
+    padding-left: 300px;
+}
+.blog-info4{
+    padding-left: 300px;
+}
+.blog-info5{
+    padding-left: 300px;
+}
+.blog-info6{
+    padding-left: 300px;
+}
+.blog-info7{
+    padding-left: 300px;
+}
+.blog-info7{
+    padding-left: 300px;
+}
+.blog-info8{
+    padding-left: 300px;
+}
+.blog-info9{
+    padding-left: 300px;
+}
+.tata{
+    background-color: black;
+    color: white;
+    width: 1500px;
+    height: 100px;
+    left: 0px;
+    top: 2090px;
+    margin-right: 50px;
+}
