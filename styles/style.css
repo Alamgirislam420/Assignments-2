@@ -80,9 +80,20 @@ body{
 .tata{
     background-color: black;
     color: white;
-    width: 1500px;
-    height: 100px;
+    width: 1600px;
+    height: 160px;
     left: 0px;
     top: 2090px;
-    margin-right: 50px;
+    margin-right: 500px;
+}
+.content{
+    padding-left: 250px;
+    padding-top: 15px;
+    font-size: 30px;
+}
+.info{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+    gap: 10px;
 }
